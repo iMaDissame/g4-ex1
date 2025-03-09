@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 92BA-CF9F
+
+ Directory of C:\Users\topim\OneDrive\Documents\GitHub\g4-ex1
+
+03/09/2025  01:55 AM    <DIR>          .
+03/09/2025  01:47 AM    <DIR>          ..
+03/09/2025  01:55 AM               361 f1.txt
+03/09/2025  01:55 AM                 0 f2.txt
+               2 File(s)            361 bytes
+               2 Dir(s)  124,096,290,816 bytes free
